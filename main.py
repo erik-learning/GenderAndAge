@@ -15,7 +15,7 @@ from scipy.fftpack import fft
 
 warnings.filterwarnings('ignore')
 # Our API key for telegram bot
-TOKEN = '5681427786:AAFnS-Fzgo5cuw5f5qUpEv2nK9Uf84mrTVw'
+TOKEN = '*********************************'
 bot = telebot.TeleBot(TOKEN)
 
 # Downloading models for gender and age detection
